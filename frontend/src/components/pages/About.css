@@ -1,0 +1,16 @@
+.card-header {
+    font-family: 'Anaheim', sans-serif;
+    font-size: 58px;
+    color: whitesmoke;
+    background-color: #0A5CA5;
+    width: 800px;
+    margin-left: 390px;
+    margin-top: 10px;
+}
+.card-text {
+    padding: 10px;
+    width: 800px;
+    text-align: justify;
+}
+
+

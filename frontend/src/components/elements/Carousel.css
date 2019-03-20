@@ -1,0 +1,9 @@
+.carousel {
+    height: 200px;
+    width: 560px;
+    margin-top: 20px;
+    margin-left: -130px;
+}
+.border {
+    border-width: 6px !important;
+}

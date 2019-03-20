@@ -1,0 +1,11 @@
+.card-deck {
+    margin: 100px;
+    width: 1000px;
+}
+.card-img-top {
+    width: 100px;
+    padding-top: 10px;
+}
+.trade {
+    width: 200px;
+}
